@@ -1,0 +1,30 @@
+/*
+* Isabella Ceresini
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+/* Body attributes here */
+
+body {
+    background-color: powderblue;  width: 95%; margin:auto;
+   
+
+}
+table, td, th{ border: 1px solid antiquewhite
+;}
+table { border border-collapse: collapse;}
+
+thead{background-color: azure;}
+tbody{background-color: azure;}
+
+#galapagos {width:350px; height: 200px; }
+#fig1, #fig2 {float:left;}
+#Darwin {width:350px; height: 200px;}
+#sealion {width:350px; height: 200px; }
+.nofloat {clear: both;}
